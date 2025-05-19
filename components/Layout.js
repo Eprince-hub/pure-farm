@@ -179,9 +179,7 @@ export default function Layout({
                     component="p"
                     variant="p"
                     sx={classes.hideOnMobile}
-                  >
-                    Email: victorejikewebdev@gmail.com
-                  </Typography>
+                  />
                 </Box>
                 {/* push menu items to right */}
 

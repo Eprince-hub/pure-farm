@@ -186,6 +186,15 @@ export default function Footer(props) {
           <Typography component="p" variant="p">
             © {new Date().getFullYear()} Pure Farm. All rights reserved.
           </Typography>
+          <span
+            style={{
+              textAlign: 'center',
+              display: 'block',
+              fontSize: '11px',
+            }}
+          >
+            with ❤️ from Victor
+          </span>
         </span>
       </section>
     </footer>
